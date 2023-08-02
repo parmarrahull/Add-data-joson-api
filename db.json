@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "textbox": "sd",
+      "dropdown": "option1",
+      "checkbox": true,
+      "radio": "radio2",
+      "id": 1
+    },
+    {
+      "textbox": "rahul",
+      "dropdown": "option1",
+      "checkbox": true,
+      "radio": "radio3",
+      "id": 2
+    }
+  ]
+}
